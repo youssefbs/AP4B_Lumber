@@ -1,4 +1,5 @@
 package classCode.travailleur;
 
-public class Personnel {
+public Class Superviseur{
+    
 }
