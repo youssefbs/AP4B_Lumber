@@ -20,7 +20,7 @@ public class Joueur {
             System.out.println("Echec");
             return false;
         }else{
-            argent=argent-1;
+            argent=argent-a;
             return true;
         }
     }
